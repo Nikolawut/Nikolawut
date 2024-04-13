@@ -1,4 +1,4 @@
-# Hi there, I'm Nikola! 👋
+# Hey there, I'm Nikola!
 
 Welcome to my GitHub! I'm a passionate programmer on a journey to continually improve my skills and make a positive impact through code. With a love for problem-solving and a dedication to lifelong learning, I'm striving to become one of the best in the field.
 
